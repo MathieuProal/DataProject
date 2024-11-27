@@ -16,4 +16,4 @@
 
 
 ## COPYRIGHT
-- Nous, sous signé Driss DRIYEK et Mathieu PROAL, déclarons sur l'honneur que les lignes de code de ce projet ont été produites par nous-mêmes, à l'éxception de ces lignes ci-dessous :
+- Nous, sous signé Driss DRIYEJ et Mathieu PROAL, déclarons sur l'honneur que les lignes de code de ce projet ont été produites par nous-mêmes, à l'éxception de ces lignes ci-dessous :
