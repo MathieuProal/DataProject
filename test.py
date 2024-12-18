@@ -2,7 +2,6 @@ import folium
 import geojson, geopandas, pandas
 
 def affichagePoint(coord1, coord2, texte, map) :
-    print(coord1+" "+coord2)
     point_coords = (float(coord1), float(coord2))
     folium.Marker(
         location=point_coords,
@@ -13,7 +12,7 @@ def affichagePoint(coord1, coord2, texte, map) :
 
 # Coordonnées de Paris
 coords = (48.8398094,2.5840685)
-map = folium.Map(location=coords, tiles='OpenStreetMap', zoom_start=8)
+map = folium.Map(location=coords, tiles='OpenStreetMap', zoom_start=10)
 
 csvRead = pandas.read_csv('velib-disponibilite-en-temps-reel.csv', delimiter=";")
 
@@ -22,5 +21,5 @@ for index, ligne in csvRead.iterrows():
     if (ligne[2]=="NON"):
         affichagePoint(coord1, coord2, ligne['Nom station'], map)
 
-map.save(outfile='map.html')
+map.save(outfile='map1.html')
 
