@@ -1,0 +1,1487 @@
+Nom station,Nombre total vélos disponibles,Station en fonctionnement
+Rouget de L'isle - Watteau,14,OUI
+Benjamin Godard - Victor Hugo,5,OUI
+Basilique,12,OUI
+Hôpital Mondor,20,OUI
+Messine - Place Du Pérou,6,OUI
+Toudouze - Clauzel,9,OUI
+Le Brun - Gobelins,4,OUI
+Cassini - Denfert-Rochereau,9,OUI
+Vaneau - Sèvres,6,OUI
+Jourdan - Stade Charléty,17,OUI
+Lacépède - Monge,21,OUI
+Charonne - Robert et Sonia Delaunay,3,OUI
+Saint-Romain - Cherche-Midi,10,OUI
+Saint-Sulpice,13,OUI
+André Karman - République,7,OUI
+Silly - Galliéni,8,OUI
+Pierre et Marie Curie - Maurice Thorez,3,OUI
+Jean Rostand - Paul Vaillant Couturier,13,OUI
+Bas du Mont-Mesly,16,OUI
+Guersant - Gouvion-Saint-Cyr,14,OUI
+Place Nelson Mandela,3,OUI
+Charcot - Benfleet,1,OUI
+Square Boucicaut,35,OUI
+Beaux-Arts - Bonaparte,20,OUI
+Thouin - Cardinal Lemoine,2,OUI
+Bracion - Périphérique,2,OUI
+Froment - Bréguet,39,OUI
+Boétie - Ponthieu,1,OUI
+Morillons - Dantzig,3,OUI
+Croulebarde - Corvisart,22,OUI
+Jouffroy d'Abbans - Wagram,2,OUI
+Romainville - Vaillant-Couturier,0,OUI
+Mairie du 12ème,18,OUI
+Saint-Fiacre - Poissonière,17,OUI
+Le Brix et Mesmin - Jourdan,1,OUI
+Porte de Saint-Ouen - Bessières,5,OUI
+Sarrazins - Saussure,0,NON
+Chazelles - Courcelles,5,OUI
+Cambrai - Benjamin Constant,4,OUI
+Moulin de Pierre - Abbé Grégoire,12,OUI
+Ramponeau - Belleville,14,OUI
+Lagny - Victor Basch,5,OUI
+Saint-Cloud - Hippodrome,0,OUI
+Louis Lejeune - Barbès,1,OUI
+Général Martial Valin - Pont du Garigliano,4,OUI
+Raspail Barbès,8,OUI
+Rond-point du Dr Albert Schweitzer,4,OUI
+Jules Guesde - Pont du Port à l'Anglais,20,OUI
+Théâtre des Amandiers - Palais des sports,5,OUI
+Tour d'Auvergne - Rodier,5,OUI
+Serrurier,1,OUI
+Artois - Berri,1,OUI
+De Toqueville - Terrasse,8,OUI
+Marceau - Chaillot,3,OUI
+Michel-Ange - Parent de Rosan,19,OUI
+Liard - Amiral Mouchez,3,OUI
+Caire - Dussoubs,34,OUI
+Regnault - Patay,41,OUI
+Italie - Tolbiac,8,OUI
+Vigée-Lebrun - Anselme Payen,5,OUI
+Abbeville - Faubourg Poissonnière,9,OUI
+Félix Ziem - Armand Gauthier,6,OUI
+Octave Feuillet - Albéric Magnard,0,OUI
+Youri Gagarine - Karl Marx,5,OUI
+Place Jean-Spire-Lemaître,8,OUI
+Bellefond - Poissonnière,3,OUI
+Jean Oestreicher - Porte de Champerret,6,OUI
+Square Louis XVI,20,OUI
+Granges aux Belles,12,OUI
+Gare de Nogent-le-Perreux,11,OUI
+Dunkerque - Rocroy,1,OUI
+Verger - Colonel Guichard,3,OUI
+Gare de l'Est - Faubourg-Saint-Martin,5,OUI
+Pereire - Ternes,3,OUI
+Gabriel Lamé,31,OUI
+Douai - Bruxelles,13,OUI
+Quai de l'Horloge - Pont Neuf,14,OUI
+Gare Saint-Lazare - Isly,15,OUI
+Boulangers - Cardinal Lemoine,9,OUI
+Porte Pouchet-Bessières,13,OUI
+Gare d'Austerlitz - Quai Saint-Bernard,23,OUI
+Ségur - d'Estrées,6,OUI
+Lamarck - Saint-Ouen,0,OUI
+Place Georges Guillaumin,1,OUI
+Gare Rosny-Bois-Perrier,30,OUI
+Boudreau - Auber,21,OUI
+Gay Lussac - Saint-Jacques,18,OUI
+Ambroise Rendu - Porte Brunet,2,OUI
+Charlot - Stade Gabriel Voisin,28,OUI
+Château - République,5,OUI
+Faubourg Montmartre - La Fayette,30,OUI
+Legendre - Clichy,4,OUI
+Henri Barbusse - Stalingrad,2,OUI
+Quai de la Seine,9,OUI
+Thionville - Ourcq,7,OUI
+Pesaro - Préfecture,3,OUI
+Rossini - Laffitte,8,OUI
+Ranelagh - Mozart,2,OUI
+Argenteuil - Voltaire,9,OUI
+Moncey - Blanche,2,OUI
+Lisbonne - Monceau,2,OUI
+Gare du Nord - Hôpital Lariboisière,7,OUI
+Gare de Lyon - Place Louis Armand,4,OUI
+Belidor - Gouvion-Saint-Cyr,8,OUI
+Redoute - Les Courtilles,31,OUI
+Exelmans - Versailles,18,OUI
+Place de Rhin et Danube,0,OUI
+Roquette - Thiéré,20,OUI
+Saint-Maur - Roquette,9,OUI
+Claude Decaen - Cannebière,5,OUI
+11 Novembre 1918 - 8 Mai 1945,4,OUI
+Berri - Haussmann,6,OUI
+Amelot - Saint-Sébastien,30,OUI
+Delphine Seyrig - Général Leclerc,4,OUI
+Desaix - Edgar Faure,7,OUI
+Panthéon - Valette,7,OUI
+Pereire - Rennequin,9,OUI
+Institut du Monde Arabe - Saint-Germain,32,OUI
+Notre-Dame-des-Champs - Stanislas,10,OUI
+Chartres - La Charbonnière,5,OUI
+Place Du Général De Gaulle,1,OUI
+Pyrénées - Emmery,15,OUI
+Cimetière de Montrouge,3,OUI
+Saint-Ambroise - Parmentier,16,OUI
+Anatole France - President Roosevelt,6,OUI
+Pyramide - Ecole du Breuil,28,OUI
+Henry Farman,15,OUI
+Liège - Moscou,4,OUI
+Roger Salengro - Fontainebleau,2,OUI
+Mairie de Montreuil,7,OUI
+Marne - Germain Dardan,3,OUI
+Rouget de Lisle,29,OUI
+Cimetière de Montmartre,1,OUI
+Récollets - Square Villemin,9,OUI
+Richard Lenoir - Republique,54,OUI
+Charles de Gaulle - Beauté,6,OUI
+Schoelcher - Raspail,21,OUI
+Mutualité,30,OUI
+Fontenay - Libération,7,OUI
+Jourdain - Place des Grandes Rigoles,2,OUI
+Manin - Carrières d'Amérique,5,OUI
+Pajol - Place Herbert,18,OUI
+Porte de Vanves,10,OUI
+Gabriel Péri - Francisco Ferrer,6,OUI
+Cimetière de Fontenay-sous-Bois,10,OUI
+Concorde - Stalingrad,21,OUI
+Lucie Aubrac - Fort,1,OUI
+Carducci - Place Hannah Arendt,3,OUI
+Port-Royal - Hôpital du Val-de-Grâce,14,OUI
+Hôpital Européen Georges Pompidou,46,OUI
+Lecourbe - Jean Maridor,9,OUI
+Square Simon Bolivar,1,OUI
+Grenelle - Violet,27,OUI
+Victor Hugo - Jeanne Jugan,7,OUI
+Erasme - Ulm,10,OUI
+Conservatoire de Musique,21,OUI
+Marc Sangnier - Porte de Vanves,3,OUI
+Mouton Duvernet - Général Leclerc,7,OUI
+Etienne Jodelle - Saint Ouen,2,OUI
+Championnet - Vauvenargues,2,OUI
+Boissière - Etienne Dolet,1,OUI
+Rocher - Laborde,35,OUI
+Marcadet - Barbès,5,OUI
+Guy Môquet - Etienne Dolet,4,OUI
+Bertie Albrecht - Hoche,3,OUI
+Chabanais - Petits Champs,27,OUI
+Cevennes - Bergers,23,OUI
+Sibelle - Alésia,5,OUI
+Molière - République,3,OUI
+Place de la Porte de Champeret,0,OUI
+Hôtel de Ville de Boulogne Billancourt,23,OUI
+Place Marcel Cachin,20,OUI
+Hoche - Jean Lolive,7,OUI
+Lobau - Hôtel de Ville,50,OUI
+Enghien - Faubourg Poissonnière,27,OUI
+Saint Lambert - Blomet,5,OUI
+Saint-Jacques - Val de Grâce,10,OUI
+Marcelin Berthelot,19,OUI
+Place de la Reine Astrid,29,OUI
+Edouard Tremblay - Julian Grimaux,17,OUI
+David Weill - Parc Montsouris,2,OUI
+Assas - Rennes,28,OUI
+Place Robert Guillemard,22,OUI
+Gabriel Péri - Danielle Casanova,12,OUI
+Repos - Cimetière du Père Lachaise,6,OUI
+Lakanal - Commerce,28,OUI
+François Debergue - Croix de Chavaux,1,OUI
+Censier - Jardin des Plantes,21,OUI
+Nationale - Place Jules Guesde,7,OUI
+Cambon - Rivoli,29,OUI
+Karl Marx,11,OUI
+Louis Lumière - Porte de Bagnolet,1,OUI
+Tertres - Fontaine,5,OUI
+Paris - Emile Zola,10,OUI
+Gare Rer de Fontenay sous Bois,2,OUI
+Jean Jaurès - Salvador Allende,6,OUI
+Raspail - Manufacture des Oeillets,15,OUI
+Victoire - Chaussée d'Antin,7,OUI
+Cossonnerie - Sébastopol,18,OUI
+Oberkampf - République,19,OUI
+Marcelle - Thalie,0,OUI
+Commandant Schloesing - Pétrarque,0,NON
+Henri Ste-Claire Déville - Paul Héroult,20,OUI
+Richard Lenoir - Jean-Pierre Timbaud,33,OUI
+Général De Gaulle - Alouette,6,OUI
+Legendre - Dulong,9,OUI
+Jules Guesde - Alsace,17,OUI
+Chemin Vert - Saint-Maur,11,OUI
+Rochechouart lamartine,9,OUI
+Square du Théâtre du Garde-Chasse,0,OUI
+Parmentier - République,28,OUI
+Botzaris - Parc des Buttes Chaumont,4,OUI
+Marie-Georges Picquart - Pereire,2,OUI
+Joseph Liouville - Croix Nivert,17,OUI
+Gare RER de Vincennes,7,OUI
+Place Madeleine Daniélou,19,OUI
+Marché Secrétan,7,OUI
+Jean-François Lépine - Stephenson,10,OUI
+Larmeroux - Baudelaire,8,OUI
+Sablons - Georges Mandel,2,OUI
+Quai Panhard et Levassor,42,OUI
+Théophile Gautier - François Millet,27,OUI
+Lieutenant Chauré - Etienne Marey,2,OUI
+Villette - Belleville,20,OUI
+Las Cases - Bourgogne,0,OUI
+Galilée - Kléber,6,OUI
+Charles de Gaulle - Sablonville,9,OUI
+Beffroy,25,OUI
+Mairie d'Ivry-sur-Seine,13,OUI
+Mairie du 11ème,49,OUI
+Exelmans - Michel-Ange,20,OUI
+Molitor - Chardon-Lagache,0,OUI
+Pierret - Madrid,28,OUI
+Victor Hugo - Galliéni,30,OUI
+Reims - Raymond Pitet,16,OUI
+Arche - Léonard de Vinci,17,OUI
+Saint-Vincent - Verdun,26,OUI
+Auguste Cain - Jean Moulin,8,OUI
+Seine - Flandre,3,OUI
+Chemin Vert - Fraternité,1,OUI
+Hautpoul - Jean Jaurès,5,OUI
+Marseille - Beaurepaire,40,OUI
+Leroy des Barres - Médiathèque,4,OUI
+Parmentier - Abel Rabaud,12,OUI
+Square d'Anvers,3,OUI
+Parc Georges Brassens - Brancion,9,OUI
+Place du Palais Royal,62,OUI
+Place Paul Eluard,18,OUI
+Arago - Glacière,15,OUI
+Aristide Briand - Gare de Bagneux,4,OUI
+Prague - Théophile Roussel,0,NON
+Mathurins - Auber,16,OUI
+Boyer - Ménilmontant,2,OUI
+Wilson - Métallurgie,15,OUI
+Gare Arcueil - Cachan,11,OUI
+Madame de Sanzillon - Mozart,3,OUI
+Quai du docteur Dervaux,7,OUI
+Grand Prieuré - Crussol,38,OUI
+Charonne - Avron,3,OUI
+Miromesnil - La Boétie,13,OUI
+Place de la Porte de Paris,2,OUI
+Mairie du 7ème,7,OUI
+Place Amédée Gordini - Lefebvre,8,OUI
+Laumière - Petit,7,OUI
+Stalingrad - Désiré Chevalier,13,OUI
+8 Mai 1945 - 10 Juillet 1940,0,NON
+Tristan Tzara -  Tchaïkovski,13,OUI
+Gare RER de Gentilly,7,OUI
+Victor Hugo - Ecoles,21,OUI
+Villiers de l'Isle Adam - Pyrénées,1,OUI
+Place de l'Édit de Nantes,17,OUI
+Place Jean Ferrat,6,OUI
+Boulard - Daguerre,4,OUI
+Flandre - Alphonse Karr,0,OUI
+Simon Bolivar - Henri Turot,1,OUI
+Charonne - Faubourg Saint-Antoine,29,OUI
+Saint-Germain - Thenard,29,OUI
+Hôtel de Ville de Nanterre,34,OUI
+Saint Georges - d'Aumale,8,OUI
+Général Delambre - Prebuard,22,OUI
+Anatole France - Louise Michel,6,OUI
+Stephenson - Doudeauville,6,OUI
+Stalingrad - Germaine Tailleferre,2,OUI
+Charenton - Diderot,9,OUI
+Porte de Vincennes,3,OUI
+Jules Ferry - Faubourg du Temple Paris,50,OUI
+Bienfaisance - Place de Narvik,5,OUI
+Hôpital Bégin,0,OUI
+Guynemer - Séverine,20,OUI
+Montgallet - Charenton,15,OUI
+Richard Wallace - Place du 8 Mai 1945,11,OUI
+Gaston Roussel - Commune de Paris,2,OUI
+Square Gilbert Thomain,7,OUI
+Alfred Roll - Berthier,7,OUI
+Faustin Hélie - Desbordes-Valmore,7,OUI
+Flandre - Riquet,6,OUI
+Jean Macé - Faidherbe,44,OUI
+Place des Ternes.,10,OUI
+Dupleix - du Guesclin,32,OUI
+Place de Verdun,31,OUI
+Ancien Canal - Hélène Brion,5,OUI
+Montgallet - Reuilly,10,OUI
+Departement - Pajol,11,OUI
+Place Jacques Madaule,11,OUI
+Parmentier - Hôpital Saint-Louis,13,OUI
+Bercy - Villot,19,OUI
+Pasteur - Gambetta,12,OUI
+Gare de Laplace,15,OUI
+Fragonard - Porte de Clichy,52,OUI
+Quai de la Loire - Jean Jaurès,3,OUI
+Edouard Poisson - Victor Hugo,12,OUI
+Route de Sèvres - Porte de Bagatelle,37,OUI
+Montreuil - Gonnet,11,OUI
+Félix Faure - Sadi Carnot,7,OUI
+Varenne,10,OUI
+Porte de la Villette,14,OUI
+Jussieu - Fossés Saint-Bernard,35,OUI
+Ouest - Château,5,OUI
+Jacques Callot - Mazarine,27,OUI
+Place aux Étoiles,16,OUI
+Commandant Rivière,13,OUI
+Flandrin - Henri Martin,3,OUI
+Jardin d'Acclimatation,18,OUI
+Pirogues de Bercy - Libourne,35,OUI
+Paul Vaillant Couturier - Chaptal,3,OUI
+Place du 8 Mai 1945,5,OUI
+Square Cambronne,49,OUI
+Grands Moulins de Pantin,5,OUI
+Bayen - Pereire,2,OUI
+Gare de Courbevoie,7,OUI
+Clignancourt - Sofia,4,OUI
+Victor Hugo - Magasins Généraux,11,OUI
+Bordier - Félix Faure,9,OUI
+Porte d'Auteuil,23,OUI
+Cujas - Saint-Michel,14,OUI
+Carnot - Pâquerettes,23,OUI
+18 juin 1940 - Buzenval,17,OUI
+Jussieu - Guy de la Brosse,37,OUI
+Mairie de La Garenne Colombes,17,OUI
+Jean Lolive - Parc Stalingrad,6,OUI
+Jean Colly - Tolbiac,6,OUI
+Guichet - Jean Jaurès,21,OUI
+Place Violet,22,OUI
+Parvis Robert Schuman - Roger Salengro,4,OUI
+Assemblée Nationale,46,OUI
+Navier - Epinettes,7,OUI
+Réunion - Avron,3,OUI
+Verdun - Place Henri IV,14,OUI
+Place Jean-Baptiste Clément,10,OUI
+Place Carnot,7,OUI
+Chanzy - Sud-Est,13,OUI
+Boyer-Barret - Raymond Losserand,6,OUI
+Courcelles - Place des Ternes,4,OUI
+Piat - Parc de Belleville,5,OUI
+Parc Pierre Lagravère,21,OUI
+Champeaux - Gallieni,5,OUI
+Gare de Bercy,4,OUI
+Assas - Vaugirard,29,OUI
+Ceinture du Lac Inferieure - Saint-Cloud,2,OUI
+Raymond Poincaré - Allée de la Marche,3,OUI
+Anatole France - Jean Lolive,11,OUI
+Place des Marseillais,0,OUI
+Square des Saint-Simoniens,3,OUI
+Gravelle - Route du Bac,20,OUI
+Ménilmontant - Pelleport,2,OUI
+Place Falguière,4,OUI
+Petit - Manin,2,OUI
+Parc Monceau,2,OUI
+Lagny - Joffre,10,OUI
+Tardieu - Chappe,5,OUI
+Emeriau - Place de Brazzaville,48,OUI
+Petites Ecuries - Faubourg Poissonnière,14,OUI
+Nanterre - Université,4,OUI
+Gare d'Asnières sur Seine,16,OUI
+Francoeur - Marcadet,4,OUI
+Henri Chevreau - Couronnes,0,OUI
+Sommerard - Saint-Jacques,31,OUI
+Pascal - Claude Bernard,33,OUI
+Porte d'Orléans,6,OUI
+Vignerons - Minimes,11,OUI
+Pierre et Marie Curie - Julien Grimau,8,OUI
+Grenelle - Dr Finlay,48,OUI
+Ledru-Rollin - Charonne,26,OUI
+Lamennais - Washington,3,OUI
+Place Valhubert,45,OUI
+Raspail - Varenne,12,OUI
+Parc de Belleville - Julien Lacroix,1,OUI
+Pierre Grenier - Pont de Billancourt,4,OUI
+Gare de l'Est - Verdun,1,OUI
+Vladimir Ilitch Lénine - Andrée Chedid,12,OUI
+Morice - Général Leclerc,10,OUI
+Professeur René Leriche - Général Leclerc,26,OUI
+Jonquoy - Didot,7,OUI
+Uzès - Montmartre,12,OUI
+Lucien Sampaix - Récollets,13,OUI
+Quai Voltaire,31,OUI
+Charenton - Place du Col Bourgoin,30,OUI
+Saint-François-Xavier,41,OUI
+Bara - Henri Farman,41,OUI
+Batignolles - Place de Clichy,8,OUI
+Porte Dorée,17,OUI
+Gare de Pont-Cardinet,3,OUI
+Belleville - Porte des Lilas,4,OUI
+Capitaine Glarner - Gabriel Péri,3,OUI
+Mézières - Rennes,48,OUI
+Place Jean Delay,5,OUI
+Place Adolphe Cherioux - Vaugirard,8,OUI
+Pont de Levallois-bécon,5,OUI
+Sèvres-Gallieni,19,OUI
+Pierre Larousse - Raymond Losserand,1,OUI
+Indre - Prairies,5,OUI
+Pitié-Salpêtrière,20,OUI
+Michelet - Assas,8,OUI
+Charles Delescluze,44,OUI
+Edouard Vaillant - Paul-Adolphe Souriau,18,OUI
+Vasco de Gama,9,OUI
+Tanger - Place du Maroc,2,OUI
+Place du Général de Gaulle,6,OUI
+Porte de Saint-Ouen - Henri Huchard,2,OUI
+Raspail - Bac,45,OUI
+Hôtel de Ville d'Argenteuil,24,OUI
+Vincennes - Douy-Delcupe,2,OUI
+Gare Routière de Saint Cloud,26,OUI
+Place du Cornillon - Stade de France,20,OUI
+Primo Levi - Frigos,28,OUI
+Porte de Clignancourt.,6,OUI
+Filles Saint-Thomas - Place de la Bourse,39,OUI
+Génie - Mozart,3,OUI
+Milton - Manuel,12,OUI
+Place du Maréchal Juin - Péreire,19,OUI
+Eglise d'Auteuil,10,OUI
+Lucie Aubrac - Franklin,7,OUI
+Jean Jaurès - Jean Baptiste Clément,24,OUI
+Dunois - Clisson,7,OUI
+Château - Bineau,6,OUI
+Batignolles - Rome,2,OUI
+Bridaine - Lamandé,1,OUI
+Verdun - Adrien Damalix,17,OUI
+Porte de Ménilmontant,1,OUI
+Edouard Pailleron - Simon Bolivar,4,OUI
+Colonel Monteil - Brune,2,OUI
+Mairie du 18ème,6,OUI
+Paris - Désiré Préaux,8,OUI
+Laffitte - Italiens,25,OUI
+Lourmel - Marie Skobtsov,18,OUI
+Mahatma Gandhi,0,OUI
+Courcelles - Pierre Demours,8,OUI
+Belleville - Télégraphe,4,OUI
+République - Danton,4,OUI
+Danton - Serpente,20,OUI
+Mac-Mahon - Brey,4,OUI
+Square des Epinettes,3,OUI
+Pajol - Riquet,7,OUI
+Cité des Sciences et de l'Industrie,13,OUI
+Lassus - Delouvain,0,OUI
+Toffier Decaux - Cartier Bresson,7,OUI
+Emile Blemont - Poteau,2,OUI
+François Ponsard - La Muette,2,OUI
+Square du Carrefour de l'Insurrection,3,OUI
+Provence - Chaussée d'Antin,13,OUI
+Orteaux - Mouraud,2,OUI
+Bellefond - Maubeuge,14,OUI
+Edgar Quinet - Raspail,5,OUI
+Pelleport - Belgrand,2,OUI
+Place Etienne Pernet,37,OUI
+Square Saint-Ambroise,32,OUI
+Porte d'Aubervilliers,35,OUI
+Sadi Carnot - François Mitterrand,5,OUI
+Chabrol - d'Hauteville,7,OUI
+Gabrielle Josserand - Edouard Vaillant,4,OUI
+Lepic - Armée d'Orient,3,OUI
+Hameau Fleuri - Marché,8,OUI
+Théâtre - Lourmel,44,OUI
+Square René Viviani - Montebello,28,OUI
+Ledru-Rollin - Place du Père Chaillet,32,OUI
+Aubervilliers - Curial,3,OUI
+Ecole Vétérinaire,26,OUI
+Bassano -  Iéna,0,OUI
+Lavandieres Sainte Opportune - Rivoli,16,OUI
+Balard - Montagne de la Fage,32,OUI
+Stade Auguste Delaune,5,OUI
+Méchain - Faubourg Saint-Jacques,1,OUI
+Jean-Baptiste Pigalle - La Bruyere,8,OUI
+Belliard - Damrémont,2,OUI
+Transvaal - Charles de Gaulle,20,OUI
+Kléber - Gouverneur Général Eboué,19,OUI
+Boulets - Faubourg Saint-Antoine,6,OUI
+Pyrénées - Maraîchers,12,OUI
+Route de la Muette - Porte de Neuilly,33,OUI
+Gare RER de Saint-Denis,38,OUI
+Maine - Antoine Bourdelle,2,OUI
+Place de Passy,1,OUI
+Président Wilson - Jean Jaures,23,OUI
+Mozart - Jasmin,4,OUI
+Place Jacques Bonsergent,27,OUI
+Villersexel - Saint-Germain,9,OUI
+Haies - Réunion,8,OUI
+Pernety - Raymond Losserand,8,OUI
+Place Alphonse Deville,21,OUI
+Eugène Reisz - Davout,4,OUI
+Maison de Radio - France,26,OUI
+Mont Valérien - Michel Salles,2,OUI
+Naples - Rome,7,OUI
+Neuve Saint-Pierre - Beautreillis,18,OUI
+Lallier - Trudaine,3,OUI
+Champ de Mars - Cler,28,OUI
+Square Léon,3,OUI
+Palais des Sports,14,OUI
+Chernoviz - Raynouard,2,OUI
+Cadet - La Fayette,15,OUI
+Fontainebleau - Edmond Michelet,4,OUI
+Caulaincourt - Place Constantin Pecqueur,2,OUI
+Eugène Oudiné - Dessous Des Berges,22,OUI
+Jeanne Hornet - Girardot,4,OUI
+Gare Montparnasse - Vaugirard,8,OUI
+Parvis Corentin Celton,42,OUI
+Sabot - Rennes,23,OUI
+Vieille du Temple - Francs Bourgeois,10,OUI
+Pereire - Place de Wagram,5,OUI
+Hôtel de Ville de Champigny sur Marne,11,OUI
+Aqueduc - Villette,8,OUI
+Place François Mitterand,6,OUI
+Mairie de Sceaux,8,OUI
+Gare du Nord - Demarquay,6,OUI
+Sénat - Condé,31,OUI
+Manin - Simon Bolivar,6,OUI
+Hôpital Pitié Salpêtrière,8,OUI
+Place du Maquis du Vercors,2,OUI
+Diderot - Reuilly,20,OUI
+Hôtel de Ville - Pont-Marie,30,OUI
+Belleville - Pyrénées,5,OUI
+Bois de Vincennes.,10,OUI
+Place Pasdeloup,20,OUI
+Bercy.,30,OUI
+Pont Neuf - Rivoli,24,OUI
+Saint-Jacques - Tombe Issoire,1,OUI
+Stade Gaston Bouillant,25,OUI
+Gustave Eiffel - Parc des Impressionnistes,7,OUI
+Place d'Italie - Vincent Auriol,8,OUI
+Franciade - Gabriel Péri,17,OUI
+Calmette,4,OUI
+Dupont de l'Eure - Gambetta,6,OUI
+Porte Maillot - Perreire,16,OUI
+Damrémont - Caulaincourt,0,OUI
+Parc André Citroën,57,OUI
+Mairie du 15ème,17,OUI
+Chateau,6,OUI
+Place des Larris,4,OUI
+Faubourg Poissonniere - Delta,5,OUI
+Vistule - Choisy,6,OUI
+Billancourt - Général Leclerc,4,OUI
+Manin - Crimée,12,OUI
+Greneta - Sebastopol,17,OUI
+Square Desnouettes,11,OUI
+Poissonniers - Nord,5,OUI
+Charonne - Philippe-Auguste,5,OUI
+Raspail - Chomel,45,OUI
+Roquépine - Malesherbes,12,OUI
+Beaujon - Wagram,1,OUI
+Mairie de Clichy,24,OUI
+Reims - Porte d'Asnières,20,OUI
+Pont de Lodi - Dauphine,20,OUI
+Station Paris Basketball - Ney - Charles Hermite,5,OUI
+Romain Rolland,3,OUI
+Porte d'Ivry,20,OUI
+Gambetta - Michelet,6,OUI
+Surcouf - Université,21,OUI
+République - Henri Barbusse,3,OUI
+Duroc - Place de Breteuil,8,OUI
+Carnot - Général Lanrezac,4,OUI
+Centenaire - Sorins,15,OUI
+Faidherbe - Dahomey,42,OUI
+Brochant - Square des Batignolles,5,OUI
+Mornay - Sully,14,OUI
+Square Raymond Souplex,8,OUI
+Porte Saint-Martin,22,OUI
+Keller - La Roquette,31,OUI
+François 1er - Lincoln,7,OUI
+Parmentier - Fontaine au Roi,15,OUI
+Place Mireille Havet,43,OUI
+Rougemont - Poissonnière,21,OUI
+Georges V - François 1er,2,OUI
+Nationale - Marcel Duchamp,6,OUI
+Charles de Gaulle - Louis Philippe,8,OUI
+Saint-Blaise - Mouraud,4,OUI
+Melun - Jean Jaurès,6,OUI
+Hôtel de Ville de Levallois Perret,16,OUI
+Sorbonne - Ecoles,46,OUI
+Les Juilliottes,10,OUI
+Versailles - Claude Terrasse,19,OUI
+Jeûneurs - Mulhouse,20,OUI
+Place Tony de Graaff,8,OUI
+Convention - Saint-Charles,8,NON
+Place Marcel Sembat,51,OUI
+Place de Finlande,5,OUI
+François Truffaut - Saint Emilion,56,OUI
+Poissy - Saint-Germain,22,OUI
+Lac Daumesnil - Saint-Maurice,4,OUI
+Thérèse - Opéra,21,OUI
+Moulin de la Pointe,6,OUI
+Ferrus - Saint-Jacques,5,OUI
+Sèvres Rive Gauche,1,OUI
+Claude Vellefaux - Sambre et Meuse,6,OUI
+Saint-Fargeau - Mortier,7,OUI
+Bleue - Trévise,17,OUI
+République - Auguste Perret,6,OUI
+Le Vau - Maurice Bertaux,2,OUI
+Jean Moulin - Paul Doumer,11,OUI
+Daunou - Louis le Grand,13,OUI
+Beaumarchais - Pas de la Mule,14,OUI
+Pierre Sarrazin - Saint-Michel,28,OUI
+Mairie du 9ème,22,OUI
+Bachaumont - Montmartre,29,OUI
+Place Centrale,1,OUI
+Square Georges Melies,14,OUI
+Senard - Charles Blum,11,OUI
+Mairie du 19ème,7,OUI
+Pré Saint-Gervais - Lilas,3,OUI
+Jardin Marguerite Long,18,OUI
+Bois de Vincennes - Porte Jaune,5,OUI
+Jean Jaurès - Reine,13,OUI
+Place du Président Salvador Allende,5,OUI
+Argenson - Château,25,OUI
+Paul Klee - Place Augusta Holmes,30,OUI
+Place de l'Eglise - Pantin,3,OUI
+Alexander Fleming - Belvédère,1,OUI
+Butte aux Cailles - Esperance,14,OUI
+Gare du Nord - Place de Valenciennes,5,OUI
+Louis Ganne - Davout,9,OUI
+Place du Front Populaire - George Sand,4,OUI
+Fernand Braudel - Vincent Auriol,23,OUI
+Paul Barruel - Vaugirard,3,OUI
+Square du Bataclan,14,OUI
+Evariste Galois,3,OUI
+Lamartine - Faubourg Montmartre,12,OUI
+Rapp - Place du Général Gouraud,23,OUI
+Place du Canada,26,OUI
+Bastille - Quai de la Rapée,25,OUI
+Parc de Sceaux - Centre-Ville,0,OUI
+Jacquard - Ternaux,24,OUI
+Roquette - Folie Regnault,19,OUI
+Choron - Martyrs,12,OUI
+Vignes - Boulainvilliers,1,OUI
+Honoré d'Estienne d'Ovres - Grilles,0,OUI
+Terroirs de France - Lheureux,22,OUI
+Charles Lecocq - Lecourbe,13,OUI
+Brochant - Clichy,1,OUI
+Mazagran - Pierre de Coubertin,9,OUI
+Odessa - Départ,9,OUI
+Neuilly - Petit,11,OUI
+René Coty - Parc Montsouris,7,OUI
+Pelée - Alphonse Baudin,32,OUI
+Madeleine Michelis - Roule,20,OUI
+Belleville - Couronnes,5,OUI
+Jessaint - Marx Dormoy,5,OUI
+Gare de l'Est - Fidélité,8,OUI
+Léon - Doudeauville,3,OUI
+Botzaris - Crimée,8,OUI
+René Binet - Porte de Montmartre,8,OUI
+Cours de l'Ile Seguin - Parc Billancourt,15,OUI
+Suffren - Pérignon,16,OUI
+Gare du Nord - Denain,0,OUI
+Gare de Clichy-Levallois,19,OUI
+André Maurois - Joseph et Marie Hackin,4,OUI
+Docteur Calmette - Martre,10,OUI
+Gare de Lyon - Van Gogh,10,OUI
+Dareau - Broussais,3,OUI
+Marcel Yol - Jullien,5,OUI
+Le Corbusier - Jean Jaurès,34,OUI
+Hôtel de ville de Fontenay-sous-Bois,3,OUI
+Boutroux - Porte de Vitry,42,OUI
+Gare SNCF Vanves-Malakoff,2,OUI
+Véron - Lepic,1,OUI
+Pierre Levée - Fontaine Timbaud,19,OUI
+Pont De Charenton,16,OUI
+Convention - Vaugirard,13,OUI
+Pierre Brossolette - Adolphe Pinard,2,OUI
+Résistance - Hoche,2,OUI
+Quai Marcel Boyer - Victor Hugo,26,OUI
+Paul Vaillant-Couturier - Gare RER,25,OUI
+Cours de Vincennes - Davout,11,OUI
+Fessart - Château,17,OUI
+Gare de Nanterre Ville,31,OUI
+Cimetière de Boulogne-Billancourt,11,OUI
+Gergovie - Vercingétorix,9,OUI
+Brancion - Lefebvre,2,OUI
+Sambre et Meuse - Villette,7,OUI
+Hôtel de Ville de Fontenay-aux-Roses,5,OUI
+Hôpital Robert Debré,0,OUI
+Docteurs Déjérine - Pte de Montreuil,7,OUI
+Jules Guesde - Laennec,1,OUI
+Vanne - Saussaies,7,OUI
+Demi-Lune - Aristide Briand,0,OUI
+Vaugirard - Verrerie,13,OUI
+Guy Môquet - Saint-Ouen,7,OUI
+Victor Cresson - Telles de la Poterie,29,OUI
+Edouard Vaillant - Galliéni,8,OUI
+Square Alban Satragne,17,OUI
+Clapeyron - Moscou,5,OUI
+Mairie de Romainville,1,OUI
+Constantine - Université,5,OUI
+Jardin de l'Hospice Debrousse,6,OUI
+Santé - Arago,9,OUI
+Amaury Duval - Gabriel Péri,3,OUI
+Averroès - Aimé Césaire,6,OUI
+Charles Gide - Fort de Bicêtre,5,OUI
+Commandant l'Herminier - Gallieni,2,OUI
+Vitruve - Davout,2,OUI
+Pyramide - Parc Floral,26,OUI
+Place de la Porte de Passy,10,OUI
+Auguste Blanqui - Glacière,12,OUI
+Place Nationale - Château-des-Rentiers,3,OUI
+Quai de Valmy,2,OUI
+Batignolles - Beudant,14,OUI
+Athènes - Clichy,1,OUI
+Place de Lévis,5,OUI
+Parc Suzanne Lenglen,33,OUI
+La Motte-Picquet - Grenelle,17,OUI
+Stade Georges Carpentier,13,OUI
+Théâtre de La Garenne,3,OUI
+Pierre Demours - Laugier,5,OUI
+Place de l'Insurrection d'Août 1944,28,OUI
+Metz - Faubourg Saint-Denis,38,OUI
+Arcole - Notre-Dame,29,OUI
+Place Jules Ferry,8,OUI
+Lycée Saint Exupéry - Juliette Savar,11,OUI
+Censier - Santeuil,28,OUI
+Gaston Tessier - Rosa Parks RER,6,OUI
+Mairie de Neuilly sur Seine,28,OUI
+Assas - Luxembourg,7,OUI
+Cimetière d'Issy-les-Moulineaux,10,OUI
+Estienne d'Orves - Henri Ginoux,1,OUI
+Saint-Didier - Raymond Poincaré,1,OUI
+Place de l'Europe - Quai de Bercy,17,OUI
+Place Fernand Forest,25,OUI
+Paris - Laitières,5,OUI
+Eylau - Trocadéro,6,OUI
+Charonne - Pierre Bayle,7,OUI
+Longchamp - Place d'Iéna,3,OUI
+Emeriau - Beaugrenelle,64,OUI
+Louis Blanc - Jemmapes,11,OUI
+Gare de Lyon - Chalon,16,OUI
+Chancé Milly - Cimetière Communal Sud,12,OUI
+Gare de l'Est - Place du 11 Novembre 1918,7,OUI
+Wurtz - Tolbiac,0,OUI
+Javel - André Citroën,43,OUI
+Marc Sangnier - Division Leclerc,21,OUI
+Lucien Bossoutrot - Général Martial Vallin,16,OUI
+Raffet - Montmorency,4,OUI
+Vaugirard - Pasteur,6,OUI
+Commerce - Letellier,15,OUI
+Voltaire - Anatole France,4,OUI
+Ivry - Simone Weil,7,OUI
+Square Louise Michel,3,OUI
+Ranelagh - Maison de la Radio,4,OUI
+Place Jeanne d'Arc,8,OUI
+Place Saint-Ferdinand,4,OUI
+Douai - Pierre Fontaine,5,OUI
+Jean-Pierre Timbaud - Vaucouleurs,17,OUI
+Paul Vaillant-Couturier - Victor Hugo,13,OUI
+Malakoff - Place de la Porte Maillot,4,OUI
+Place du 14 Juillet,1,OUI
+Petit Palais,37,OUI
+Estrapade - Ulm,8,OUI
+Bruneseau - Quai d'Ivry,42,OUI
+Monceau - Malesherbes,7,OUI
+Vinaigriers - Magenta,21,OUI
+Place Lafayette,54,OUI
+Pierre Lefaucheux - Traversière,17,OUI
+Halles - Bourdonnais,10,OUI
+Quai aux Fleurs - Pont Saint-Louis,20,OUI
+La Motte-Picquet - La Tour Maubourg,13,OUI
+Hôpital - Campo-Formio,2,OUI
+Maréchal Joffre - Verdun,1,OUI
+Damrémont - Ordener,0,OUI
+Square Bela Bartok,0,OUI
+Paul Signac - Aristide Briand,6,OUI
+Île de la Jatte,9,OUI
+Jean Calvin - Tournefort,8,OUI
+Saint-Mandé - Fabre d'Eglantine,11,OUI
+George V - Christophe Colomb,8,OUI
+Place Saint-Just,20,OUI
+Gallieni - Lycée Charles Petitet,38,OUI
+Cambronne - Villa Croix Nivert,18,OUI
+Buzenval - Avron,11,OUI
+Gérando - Rochechouart,3,OUI
+Porte d'Italie,4,OUI
+Porte des Lilas - Faidherbe,4,OUI
+Gare Montparnasse - Edgar Quinet,13,OUI
+Fort d'Aubervilliers,14,OUI
+Daumesnil - Hébrard,20,OUI
+Saint-Germain - Ciseaux,15,OUI
+Marignan - Champs-Elysées,0,OUI
+Suffren - Champ de Mars,20,OUI
+Président Wilson - Baudin,4,OUI
+Taitbout - La Fayette,32,OUI
+Jourdan - Monticelli,4,OUI
+Arsène Houssaye - Friedland,2,OUI
+Porte d'Asnières,14,OUI
+Esplanade du Foncet - Camille Desmoulins,26,OUI
+Camille Groult - Guy Môquet,22,OUI
+Dunkerque - Trudaine,5,OUI
+Marché aux fleurs,21,OUI
+Champs-Elysees - Bassano,0,OUI
+Mazagran - Bonne Nouvelle,23,OUI
+Square Denise Buisson,8,OUI
+Jacques Kellner - Saint-Ouen,8,OUI
+Picpus - Louis Braille,7,OUI
+Raspail - Albert Schweitzer,21,OUI
+Glacière - Soeur Catherine Marie,28,OUI
+Brillat-Savarin - Küss,21,OUI
+Godot de Mauroy - Madeleine,17,OUI
+Louis Pasteur - Albert Petit,2,OUI
+Buffon - Jardin des Plantes,24,OUI
+Louis Rolland - République,0,OUI
+Lebrun - Colonel Fabien,27,OUI
+Faubourg Poissonnière - Dunkerque,5,OUI
+Gare d'Argenteuil,34,OUI
+Victor Hugo - La Pompe,1,OUI
+Jules Guesdes - Général de Gaulle,8,OUI
+Colmar - Victor Hugo,7,OUI
+Hôtel de Ville de Sèvres,3,OUI
+Benjamin Delessert - Jean Lolive,5,OUI
+Bibliothèque Nationale - Richelieu,13,OUI
+Place de la Gare,44,OUI
+Place Aimé Césaire,13,OUI
+Place Mongolfier,20,OUI
+Condorcet - Turgot,4,OUI
+Italie - Jardin Joan Miro,3,OUI
+Villiers - Batignolles,8,OUI
+Jean Moulin - Place Victor et Hélène Basch,4,OUI
+Place Charles Michels,15,OUI
+Quai de la Gare - Pont de Bercy,24,OUI
+Croix Nivert - Square Saint-Lambert,34,OUI
+Lucien Lanternier - Le Luth,10,OUI
+Jean Jaurès - Jules Jacquemin,3,OUI
+Mairie de quartier du Plateau - Mont-Valérien,5,OUI
+Place des Droits de l'Enfant,7,OUI
+La Jarry - Place Diderot,8,OUI
+Saint-Benoît - Jacob,21,OUI
+Berthier - Place Stuart Merril,2,OUI
+Favart - Italiens,6,OUI
+Pergolèse - Malakoff,4,OUI
+Bagnolet - Orteaux,0,OUI
+Blaise-Desgoffe - Vaugirard,15,OUI
+Bourg l'Abbé - Saint-Martin,32,OUI
+Goutte d'or - Barbès,9,OUI
+Bréguet - Sabin,28,OUI
+Quai de l'Oise - Aisne,17,OUI
+Gare du Nord - Saint-Vincent de Paul,3,OUI
+Place Jacques et Thérèse Tréfouël,1,OUI
+Charles Frérot - Albert Guilpin,21,OUI
+Mairie de Clamart,4,OUI
+Place de la Madeleine - Royale,41,OUI
+Bessières - Porte de Clichy,29,OUI
+Maxime Gorki - Louis Aragon,9,OUI
+Place Edmond Michelet,16,OUI
+Poissonniers - Championnet,5,OUI
+Emile Zola - Fondary,22,OUI
+Grande Truanderie - Saint-Denis,29,OUI
+Charonne - Bureau,13,OUI
+Henri Ravera - Gabriel Péri,18,OUI
+Paul Bodin - Clichy,0,NON
+Buisson Saint-Louis - Saint-Maur,0,OUI
+Charles Tillon - Cimetière Communal,22,OUI
+Perle - Vieille du Temple,35,OUI
+Quai du Président Roosevelt - Pont Aval,25,OUI
+Chevreuse - Montparnasse,13,OUI
+Delizy - Louis Nadot,12,OUI
+Epée de Bois - Mouffetard,11,OUI
+Balzac - Olympes de Gouges,13,OUI
+Roger Salengro - Général de Gaulle,2,OUI
+Toqueville - Cardinet,10,OUI
+Cadix - Hameau,11,OUI
+Placette Grégoire Collas,22,OUI
+Camille Risch - Paul Armangot,3,OUI
+Place Ginette Hamelin,27,OUI
+Turbigo - Française,9,OUI
+Alexandre Parodi - Quai de Valmy,1,OUI
+Place des Abbesses,3,OUI
+Auguste Blanqui - Corvisart,2,OUI
+Mairie du 16ème,1,OUI
+Gare du Stade,17,OUI
+Place de la Nation - Charonne,3,OUI
+Lemercier - Cardinet,2,OUI
+Leibniz - Jean Dollfus,5,OUI
+Londres - Place d'Estienne d'Orves,21,OUI
+Gare de Reuilly - Picpus,13,OUI
+Joseph Dijon - Ornano,4,OUI
+Louis Lumière.,17,OUI
+Place Nelson Mandela,7,OUI
+Jourdan - Cité Universitaire,1,OUI
+Place Monge,14,OUI
+Porte de Clignancourt - Ney,17,OUI
+Chemin de Bretagne,13,OUI
+Herschel - Observatoire,14,OUI
+Crozatier - Faubourg Saint-Antoine,37,OUI
+Mairie d'Issy,32,OUI
+Rottembourg - Général Michel Bizot,10,OUI
+Pergolèse - Marbeau,6,OUI
+Geoffroy - Marie,16,OUI
+Centre Georges Pompidou,3,OUI
+Place de Rungis,26,OUI
+Phalsbourg - Villiers,7,OUI
+Vivaldi - Antoine-Julien Hénard,10,OUI
+Petit - Georges Thill,7,OUI
+Madagascar - Meuniers,10,OUI
+Mairie du 10ème,14,OUI
+Marché Saint-Quentin,0,OUI
+Chausson - Gabriel Péri,16,OUI
+Louis Xavier de Ricard - Ancienne Mairie,5,OUI
+Bargue -  Dutot,3,OUI
+Vivienne - Montmartre,7,OUI
+Bourse du Travail,12,OUI
+Charenton - Prague,21,OUI
+Gare de Bellevue,2,OUI
+Square Etienne Jarousse,10,OUI
+Maurice d'Ocagne - General Maudhuy,6,OUI
+Cloître Saint-Merri - Renard,29,OUI
+Turbigo - Réaumur,29,OUI
+Harpe - Saint-Germain,40,OUI
+Charles de Gaulle - Plateau de Vanves,8,OUI
+Hôpital Necker,4,OUI
+Lacuée - Lyon,12,OUI
+Mairie du 8ème,4,OUI
+Maurice Payret-Dortail,2,OUI
+Abbé Groult - Convention,3,OUI
+Archives - Rivoli,20,OUI
+Marché Saint-Germain,17,OUI
+Maine - Liancourt,3,OUI
+Cherche-Midi - Hôpital Necker,9,OUI
+Beaumarchais - Saint-Gilles,44,OUI
+Gare RER - Malleret-Joinville,7,OUI
+Parme - Clichy,5,OUI
+Bruant - Vincent Auriol,9,OUI
+Sèvres - Général Leclerc,12,OUI
+Jean Monnet - Iles,10,OUI
+Saint-Denis - Réaumur,26,OUI
+Parc Eli Lotar,9,OUI
+Nationale - Vincent Auriol,10,OUI
+Leredde - Tolbiac,33,OUI
+Cours de Vincennes - Soult,9,OUI
+Benoît Frachon - République,2,OUI
+Adolphe Lalyre - Armand Silvestre,11,OUI
+Mairie du 14ème,2,OUI
+Bézout - Général Leclerc,11,OUI
+Marne - Charles de Gaulle,17,OUI
+Blancs-Manteaux - Archives,22,OUI
+Didot - Place de Moro-Giafferi,8,OUI
+Didot - Mariniers,7,OUI
+Davout - Volga,12,OUI
+Gardenat-Lapostol - Velettes,3,OUI
+Porte de la Muette,6,OUI
+Place du 17 Octobre,17,OUI
+Landy - Heurtault,11,OUI
+Adolphe Pinard - Victor Hugo,7,OUI
+Paradis - Hauteville,24,OUI
+Mairie du 3ème,26,OUI
+Stalingrad - Rigollots,8,OUI
+Mairie du 4ème,33,OUI
+Jardins d'Eole,7,OUI
+Cesaria Evora - Rosa Parks,8,OUI
+Porte de Bagnolet,5,OUI
+Victoire - Laffitte,10,OUI
+Reuilly - Place Felix Eboue,12,OUI
+Gare d'Austerlitz - Pont Charles de Gaulle,10,OUI
+Plantes - Moulin Vert,2,OUI
+Parc Roger Salengro,14,OUI
+Cité Riverin - Château d'Eau,16,OUI
+Verdier - Jean Jaurès,7,OUI
+Flandrin - Longchamp,5,OUI
+Alouettes - Maréchal de Lattre de Tassigny,16,OUI
+Porte Molitor,25,OUI
+Mairie du Kremlin-Bicêtre,9,OUI
+Claude Vellefaux - Hôpital Saint-Louis,12,OUI
+Rivoli - Musée du Louvre,19,OUI
+Place de la Nation - Picpus,10,OUI
+Bas - Gabriel Péri,23,OUI
+Edgar Quinet - Gaité,4,OUI
+Barbès - Monique Maunoury,4,OUI
+Gare RER les Grésillons,17,OUI
+Choiseul - Quatre Septembre,13,OUI
+Murat - Porte de Saint-Cloud,30,OUI
+Gardenat Lapostol - Franklin Roosevelt,3,OUI
+Gare Montparnasse - Arrivée,30,OUI
+Pau Casals - Neuve Tolbiac,16,OUI
+Sèvres - Lecourbe,7,OUI
+Jean-Jacques Rousseau - Deux Ecus,14,OUI
+Square Claude Bernard,17,OUI
+Quai Jules Guesde - Saint-Simon,15,OUI
+Jules Vallès - Charonne,12,OUI
+Place de la Bastille - Bourdon,30,OUI
+Ecoles - Carmes,33,OUI
+Village Saint-Paul,26,OUI
+Crevaux - Bugeaud,2,OUI
+Bastille - Beaumarchais,15,OUI
+Bourdon - Pont Morland,48,OUI
+Alger - Rivoli,7,OUI
+Diane Arbus,3,OUI
+Mairie du 2ème,26,OUI
+Reuilly - Daumesnil,12,OUI
+Berthier - Porte de Clichy,22,OUI
+Charentonneau - Maisons Alfort,7,OUI
+Stade Pershing,10,OUI
+Cité Vaneau,6,OUI
+Saint-Amand - Labrouste,7,OUI
+Pyrénées - Avron,9,OUI
+Gare de Sèvres - Ville d'Avray,3,OUI
+Gare Saint-Lazare - Stockholm,3,OUI
+Saint-Placide - Cherche Midi,61,OUI
+Gambetta - Père Lachaise,6,OUI
+Marx Dormoy - Château Sainte-Barbe,0,OUI
+Beaubourg - Michel-le-Comte,14,OUI
+Saint-Honoré - Musée du Louvre,14,OUI
+Niger - Soult,11,OUI
+Guy Môquet - Parvis Georges Marchais,6,OUI
+Molitor - Michel-Ange,0,OUI
+Marseillaise - Grenade,6,OUI
+Centquatre,7,OUI
+Château - Place de Catalogne,0,OUI
+Square Montholon,6,OUI
+Le Goff - Gay-Lussac,21,OUI
+Louis Blanc - La Chapelle,3,OUI
+Jouffroy d'Abbans - Villiers,7,OUI
+Sorbier - Ménilmontant,3,OUI
+Résistance - Parmentier,6,OUI
+Cordelières - Arago,37,OUI
+Jean Jaurès - Paul Lafargue,14,OUI
+Emile Reynaud - Porte de la Villette,14,OUI
+Suresnes - Muette à Neuilly,1,OUI
+Place de l'Europe - Alfortville,18,OUI
+Bréa - Raspail,11,OUI
+Pyrénées - Plaine,1,OUI
+Verdun - Carnot,8,OUI
+Arsène Houssaye - Champs-Elysées,1,OUI
+Parc Floral du Bel Air,10,OUI
+Sarrette - Général Leclerc,3,OUI
+Belfort - Victor Hugo,7,OUI
+Place de la Fraternité,14,OUI
+Belles Feuilles - Place de Mexico,5,OUI
+Dunkerque - Alsace,4,OUI
+Porte Dauphine,14,OUI
+Petites Ecuries - Faubourg Saint-Denis,21,OUI
+André Theuriet - Blagis,4,OUI
+Solitaires - Place des Fêtes,0,OUI
+Lampes,20,OUI
+Bosquet - Saint-Dominique,7,OUI
+Victor Hugo - Gare,12,OUI
+Louis le Grand - Italiens,28,OUI
+Place André Malraux,14,OUI
+Saint-Denis - Université,11,OUI
+Les Halles - Saint-Eustache,20,OUI
+Frères Flavien - Porte des Lilas,3,OUI
+Place des Victoires,18,OUI
+Joffre - Aigle,11,OUI
+Victor Massé - Jean-Baptiste Pigalle,3,OUI
+Française - Etienne Marcel,33,OUI
+Place de l'Eglise - Vitry-sur-Seine,27,OUI
+Olivier de Serres - Leriche,9,OUI
+Coquillière - Louvre,16,OUI
+Cléry - Montmartre,36,OUI
+Porte de Pantin.,7,OUI
+Temple - Haudriettes,16,OUI
+Danielle Casanova - Opéra,14,OUI
+Montmartre - Etienne Marcel,11,OUI
+Vaugirard - Monsieur le Prince,23,OUI
+Square Emile - Chautemps,20,OUI
+Blanqui - Docteur Bauer,6,OUI
+Hôtel de Ville de Chaville,3,OUI
+Quai de Sèvres - Manufacture Nationale,26,OUI
+Etienne Marcel - Montorgueil,24,OUI
+Stalingrad - Henri Luisette,10,OUI
+Lally-Tollendal - Armand Carrel,16,OUI
+Sorbier - Gasnier-Guy,1,OUI
+Lagny - Auguste Blanqui,3,OUI
+Strasbourg - Saint-Denis,14,OUI
+Kléber - National,1,OUI
+Henri Barbusse - Gabriel Péri,4,OUI
+Sainte-Elisabeth - Turbigo,1,NON
+Vincent Auriol - Louise Weiss,18,OUI
+Fille du Calvaire - Turenne,29,OUI
+Mairie,0,OUI
+Saint-Michel - Luxembourg,20,OUI
+Mariotte - Batignolles,7,OUI
+Eugène Varlin - Place de la Paix,1,OUI
+Charenton - Wattignies,26,OUI
+Froidevaux - Boulard,9,OUI
+Béranger - Félix Faure,4,OUI
+Tiron - Rivoli,25,OUI
+Stéphanie Bouvard - Gambetta,14,OUI
+Jean Bleuzen - Square du 11 Novembre,5,OUI
+Saint-Augustin,9,OUI
+Place de l'Hôtel de Ville,9,OUI
+Riquet - Marx Dormoy,0,NON
+Séminaire de Conflans - Liberté,9,OUI
+Mûriers - Père Lachaise,1,OUI
+Hippodrome Paris-Vincennes,1,OUI
+Mathis - Flandre,0,OUI
+Saint-Gilles - Turenne,17,OUI
+Ney - Porte de Montmartre,1,OUI
+Square Pierre Lazareff,9,OUI
+Place du Maréchal de Lattre de Tassigny,9,OUI
+Place Paul Delouvrier,11,OUI
+Belleville -  Pré Saint-Gervais,2,OUI
+Candale - Mehul,2,OUI
+Manin - Secrétan,4,OUI
+Édouard Vaillant - Place Jean Jaurès,5,OUI
+Place Denfert-Rochereau,8,OUI
+Aboukir - Alexandrie,21,OUI
+Bobillot - Tolbiac,14,OUI
+Saint-Bon - Rivoli,18,OUI
+Mairie de Rosny-sous-Bois,12,OUI
+Porte de Saint Cloud - Parc des Princes,17,OUI
+Danielle Casanova - Ledru-Rollin,12,OUI
+Gare du Nord - La Chapelle,5,OUI
+Gobelins - Port-Royal,32,OUI
+Waldeck Rochet - Germaine Tillon,24,OUI
+Léon Frot - Charonne,9,OUI
+Place du 8 mai 1945.,20,OUI
+Maxime Gorki - Paul Vaillant-Couturier,1,OUI
+Chaussée d'Antin - Haussmann,19,OUI
+Hôtel de Ville de Saint-Ouen,24,OUI
+Gare des Vallées,17,OUI
+Lecourbe - Convention,2,OUI
+Oratoire - Rivoli,16,OUI
+Pyrénées - Cours de Vincennes,3,OUI
+Place du Lieutenant Henri Karcher,25,OUI
+Place de la vache noire,1,OUI
+Grande Rue - Europe,0,OUI
+Place Charles Digeon,5,OUI
+Custine - Ramey,6,OUI
+Félix Faure - Convention,41,OUI
+Ventadour - Opéra,23,OUI
+Gergovie - Alésia,29,OUI
+Port - Confluence,12,OUI
+LCL Campus - Place Oscar Niemeyer,3,OUI
+Saint-Honoré - 29 juillet,15,OUI
+Général De Gaulle - Vivien,5,OUI
+Saint Pères - Saint Germain,21,OUI
+Hector Malot - Daumesnil,48,OUI
+Amédée Huon - Fort d'Ivry,8,OUI
+Suffren - La Motte-Piquet,20,OUI
+Decrès - Alésia,3,OUI
+Dom-Pérignon - Gravelle,30,OUI
+Square Victor Basch,13,OUI
+Dominique Pado - Croix Nivert,4,OUI
+Archives - Pastourelle,20,OUI
+Jean de la Fontaine - Boulainvilliers,26,OUI
+Quai de l'Aisne - Général Leclerc,13,OUI
+Pereire - Saussure,6,OUI
+Arthur Ranc - Hôpital Bichat,2,OUI
+Marcadet - Ramey,5,OUI
+Place de la Division Leclerc,6,OUI
+George Sand - Jean de La Fontaine,4,OUI
+Cardinal Lavigerie,25,OUI
+Saint-Séverin - Saint-Michel,27,OUI
+Jules Guesdes - Carnot,9,OUI
+Porte de la Plaine,1,OUI
+Henri Barbusse - Marcel Cachin,17,OUI
+Duhamel - André Gide,3,OUI
+Place Farhat Hached,27,OUI
+Ancienne Mairie - André Morizet,2,OUI
+Saint-Marc - Feydeau,9,OUI
+Lavoisier - Missak Manouchian,5,OUI
+Réaumur - Montmartre,17,OUI
+Place Aristide Briand,17,OUI
+Magenta - Chabrol,5,OUI
+Mairie de Bagnolet,2,OUI
+Saint-Mande - Picpus,17,OUI
+Pierre Brossolette - 12 Février 1934,2,OUI
+Les Blagis,21,OUI
+Charonne - Alexandre Dumas,13,OUI
+Victor Hugo - Paul Eluard,15,OUI
+Jean Jaurès - Place de la Libération,29,OUI
+Youri Gagarine - Commune de Paris,23,OUI
+Rome - Provence,18,OUI
+Silly - Louis Blériot,9,OUI
+Guy Môquet - Compoint,4,OUI
+Paganini - Davout,13,OUI
+Quatre Vents - Carrefour de l'Odéon,31,OUI
+Gare de Robinson,25,OUI
+Reynaldo Hahn - Lagny,5,OUI
+Gare RER - Maurice Grandcoing,21,OUI
+Verdier - République,0,OUI
+Dutot - Place Alleray,4,OUI
+Philippe-Auguste,4,OUI
+Jardin Modèle - Pierre Boudou,14,OUI
+Bois de Vincennes - Polygone,7,OUI
+Bagnolet - Place Saint-Blaise,7,OUI
+Marché d'Auteuil,11,OUI
+République - Louis Loucheur,25,OUI
+Passy - Place du Costa Rica,2,OUI
+André Mazet - Saint-André des Arts,44,OUI
+Jean-Baptiste Charcot - Sainte-Geneviève,21,OUI
+Londres - Europe,5,OUI
+Regard - Rennes,39,OUI
+Stade de France - Francis de Pressensé,20,OUI
+Ménilmontant - Oberkampf,27,OUI
+Jouffroy d'Abbans - Malesherbes,4,OUI
+Lorraine - Jean Jaurès,5,OUI
+Halle Freyssinet - Parvis Alan Turing,3,OUI
+Guillaume Bertrand - République,11,OUI
+Pierre Charron - Champs-Elysées,5,OUI
+Dantzig - Lefebvre,8,OUI
+Bichat - Grange aux Belles,13,OUI
+Arsonval - Falguière,2,OUI
+Chastenet de Géry - Marcel Paul,8,OUI
+Montparnasse -  Square Ozanam,27,OUI
+Martyrs de Châteaubriant - Jean Grandel,29,OUI
+Jean Bologne - Passy,0,OUI
+Place Charles de Gaulle,0,OUI
+Pyrénées - Dagorno,4,OUI
+Clef des Champs - Albert Dhalenne,15,OUI
+Bobillot - Moulin des Prés,4,OUI
+Gare - Aristide Briand,23,OUI
+Porte de Charenton,9,OUI
+Chevaleret - Louise Weiss,28,OUI
+Mairie du 20ème,0,OUI
+Bons Raisins - Voltaire,3,OUI
+Place Saint-André des Arts,31,OUI
+Château de Vincennes,2,OUI
+Flandre - Ourcq,14,OUI
+Paix - Verdun,9,OUI
+Point du Jour - Jean Jaurès,19,OUI
+Général Leclerc - Bièvre,14,OUI
+Geoffroy-Saint-Hilaire - Saint-Marcel,12,OUI
+Edith Cavell - Volta,13,OUI
+Saint-Maur - République,12,OUI
+Porte de Versailles,20,OUI
+Metz - Marne,9,OUI
+Place du Docteur Yersin,13,OUI
+Bertrand Sincholle - Henri Barbusse,16,OUI
+Cambronne - Mademoiselle,14,OUI
+Commandant Charcot - Bretteville,28,OUI
+Francoeur - Caulaincourt,4,OUI
+Général Michel Bizot - Claude Decaen,27,OUI
+Euryale Dehaynin - Loire,15,OUI
+Ivry - Baudricourt,6,OUI
+Dôme - République,10,OUI
+Saint-Mandé - Docteur Arnold Netter,17,OUI
+Franquet - Labrouste,19,OUI
+Jacquier - Didot,3,OUI
+Hauteville - Bonne Nouvelle,11,OUI
+Verdun - Pierre et Marie Curie,2,OUI
+Roquette - Auguste Laurent,14,OUI
+Convention - Campus de Bobigny,28,OUI
+Gouthière - Poterne des Peupliers,16,OUI
+Pablo Picasso - Maurice Thorez,0,NON
+Buzenval - Vignoles,3,OUI
+Alfred de Vigny - Place du Général Brocard,4,OUI
+Port Royal - Hôpital Cochin,5,OUI
+Perrault - Place du Louvre,19,OUI
+Place Eustache Deschamps,19,OUI
+Fontaine du Tertre - Calvaire,4,OUI
+Moscou - Edouard Vaillant,15,OUI
+Temple - Jean-Pierre Timbaud,36,OUI
+Guillaume Tell - Parc Henri Barbusse,6,OUI
+Temple - Charlot,42,OUI
+Pyrénées - Charles Renouvier,9,OUI
+Sèvres - Maréchal Juin,13,OUI
+Bercy - Traversiére,22,OUI
+Galilée - Vernet,2,OUI
+Pierre Joseph Desault,18,OUI
+Charles de Gaulle - Rue de l'Alma,5,OUI
+Duméril - Jeanne d'Arc,16,OUI
+Paul Doumer - Stalingrad,6,OUI
+Hôtel de Ville de Vincennes,2,OUI
+Louis Armand - Bernard Palissy,19,OUI
+Olympiades,18,OUI
+Ménilmontant - Père Lachaise,7,OUI
+Maine - Jean Zay,8,OUI
+Pavé des Gardes - Charles Vaillant,0,OUI
+Tombe Issoire - René Coty,7,OUI
+Macdonald - Césaria Evora,40,OUI
+Siam - La Pompe,0,OUI
+Gare RER - Général de Gaulle,37,OUI
+Alexandre Dumas - Place de la Réunion,11,OUI
+Chevaleret - Tolbiac,12,OUI
+Marcel Pourtout - Édouard Manet,19,OUI
+Saint-Lazare - Place d'Estienne d'Orves,11,OUI
+Sahel - Général Michel Bizot,9,OUI
+Epi d'Or - Chevilly,7,OUI
+Montreuil - République,7,OUI
+Dora Maar - Nadia Guendouz,13,OUI
+Général Leclerc - République,17,OUI
+Port - Maurice Chevalier,27,OUI
+Legendre - Nollet,5,OUI
+Gare du Nord - Faubourg Saint-Denis,3,OUI
+Square des Amandiers,7,OUI
+Musée d'Orsay,43,OUI
+Marceau - Président Wilson,7,OUI
+Ménil - Argenteuil,11,OUI
+Gambetta - Tourelles,1,OUI
+Verdun - Henri Barbusse,2,OUI
+René Coty - Place Denfert-Rochereau,5,OUI
+Place du Colonel Fabien,0,OUI
+Gabriel Péri - Place de la Libération,2,OUI
+Stalingrad - Général de Gaulle,13,OUI
+Championnet.,0,OUI
+Carpeaux - Place Jacques Froment,7,OUI
+Colonel Pierre Avia,26,OUI
+Jemmapes - Ecluses Saint-Martin,5,OUI
+Arthur Auger - Jean Jaurès,3,OUI
+Val-Fleury,10,OUI
+Pasteur - Cotentin,0,OUI
+Faubourg St-Antoine - Place de la Nation,5,OUI
+Volontaires - Vaugirard,6,OUI
+Gare de Lyon - Roland Barthes,38,OUI
+M.- A. Lagroua Weill-Hallé -  F. Dolto,50,OUI
+Guy Môquet - Jean Moulin,22,OUI
+Victor Hugo - Bineau,7,OUI
+Maréchal Leclerc de Hauteclocque - Marché Buzenval,4,OUI
+Fief - République,1,OUI
+Champs de Manoeuvre - Cartoucherie,23,OUI
+Hôtel de Ville de Rueil-Malmaison,8,OUI
+Bastille - Biscornet,54,OUI
+Crimée - Ourcq,20,OUI
+Division Leclerc - Kléber,5,OUI
+Rond-Point Rhin et Danube,39,OUI
+Hélène et François Missoffe - Emile Borel,4,OUI
+Lacépède - Linné,20,OUI
+Adrien Lesesne - Docteur Bauer,14,OUI
+Guynemer - Jardin du Luxembourg,34,OUI
+Porte de Clichy - Place des Nations Unies,31,OUI
+Paul Valery - Victor Hugo,1,OUI
+Henri Barbusse - Bourguignons,23,OUI
+Etienne Dolet - Place Maurice Chevalier,11,OUI
+Roland Garros - Jean Bouin,13,OUI
+Batignolles - Abel Truchet,3,OUI
+Pontoise - La Tournelle,22,OUI
+Saint-Marcel - Hôpital,3,OUI
+Gare de l'Est - Chateau Landon,10,OUI
+Résistance - Romain Rolland,3,OUI
+Jonquière - Docteur Paul Brousse,17,OUI
+Place Tristan Bernard,6,OUI
+Ordener - Poissonniers,5,OUI
+Place d'Italie - Soeur Rosalie,24,OUI
+Lauriston - Copernic,1,OUI
+Marcel Monge - Marcel Dassault,15,OUI
+Cité de la Musique,15,OUI
+René Boulanger - Lancry,0,OUI
+Joseph Sansboeuf - Saint Lazare,9,OUI
+Claude Debussy - Marc Bloch,23,OUI
+Suzanne Masson,6,OUI
+Place Jean Mermoz,19,OUI
+Volontaires - Lecourbe,6,OUI
+Place des Arts - Jean Mermoz,11,OUI
+Tolbiac - Boussingault,15,OUI
+Gare du Nord - Dunkerque,1,OUI
+Convention - Lourmel,36,OUI
+Hippodrome de Longchamp,3,OUI
+Ney - Porte de Clignancourt,6,OUI
+Payenne - Square George Caïn,23,OUI
+Liberté - Vert-de-Maisons,10,OUI
+Pyrénées - Ménilmontant,4,OUI
+Pont de Suresnes,17,OUI
+Georges Pompidou - Verdun,21,OUI
+Saint-Jacques - Soufflot,14,OUI
+Félix Faure - Lourmel,11,OUI
+Choisy - Tolbiac,0,NON
+Gambetta - Saint Fargeau,2,OUI
+Place Pigalle,7,OUI
+Nungesser - Santé,13,OUI
+Faubourg Du Temple - Republique,30,OUI
+Jean Mermoz - Champs-Elysées,11,OUI
+Jean Jaurès - Presles,5,OUI
+Stalingrad - Barbara,1,OUI
+Belfort - Voltaire,16,OUI
+Cartier Bresson - Denis Papin,3,OUI
+Colisée - Champs-Elysées,7,OUI
+Pierre Ginier - Clichy,5,OUI
+Alexandre Dumas - Voltaire,13,OUI
+Abbé Carton - Plantes,5,OUI
+Clichy - Douai,3,OUI
+Saint-Germain - Verdun,0,OUI
+Fabre d'Eglantine - Place de la Nation,4,OUI
+Jean Jaurès - Place du Dr Roux,32,OUI
+Traktir - Foch,1,OUI
+Châteaudun - Place de la Liberté,5,OUI
+Vanne - Général de Gaulle,4,OUI
+Place Henri Dunant - Gare RER,11,OUI
+Place de la République - Voltaire,13,OUI
+Charles de Gaulle - Madrid,0,OUI
+Place de la Montagne du Goulet,17,OUI
+Parc des Pierrettes,4,OUI
+Richard Lenoir - Voltaire,22,OUI
+Avenir,4,OUI
+Octave Gréard - Tour Eiffel,26,OUI
+Charles de Gaulle - Les Sablons,31,OUI
+Stade de la Habette,8,OUI
+Président Roosevelt - Rouget de Lisle,32,OUI
+Hôtel de Ville de Créteil,0,NON
+Richard Lenoir - Place de la Bastille,38,OUI
+Diderot - Pierre Bourdan,9,OUI
+Jean Bouin - Gouverneur Général Eboué,27,OUI
+Raymond Poincaré - Place Victor Hugo,1,OUI
+Gare Saint-Lazare - Place de Budapest,10,OUI
+Hôtel de Ville d'Asnières sur Seine,29,OUI
+Marceau Delorme - Pierre Brossolette,21,OUI
+Centre Hospitalier Intercommunal de Créteil,14,OUI
+Garibaldi - Gabriel Péri,13,OUI
+Château - République,0,OUI
+Bateliers - Quai de Seine,21,OUI
+Créteil Pompadour,30,OUI
+Gare RER,6,OUI
+Place de la Porte de Châtillon,29,OUI
+Place de la Paix - Abbé Saint-Pierre,1,OUI
+Les Planètes,0,OUI
+Simone Signoret - Paris,9,OUI
+Charles de Gaulle - Jean Lolive,3,OUI
+Ruisseau - Ordener,8,OUI
+Noisy le Sec - Jean-Baptiste Clément,1,OUI
+Clignancourt - Ordener,3,OUI
+Clichy - Place Blanche,4,OUI
+Albert Kahn - Duhesme,0,NON
+Alibert - Jemmapes,31,OUI
+Gabriel Péri - Jules Ferry,11,OUI
+Cauchy - Cévennes,49,OUI
+Place De Fontenoy - Saxe,2,OUI
+Saint-Denis - Rivoli,55,OUI
+Choisy - Pointe d'Ivry,0,NON
+Bois de Vincennes - Gare,13,OUI
+Granges aux Belles - Hôpital Saint-Louis,8,OUI
+Pailleron - Bouret,2,OUI
+Square de Choisy - Eastman,9,OUI
+Carrefour Pleyel,9,OUI
+François 1er - Montaigne,11,OUI
+Michelet - Dr Bauer,6,OUI
+Rampal - Belleville,13,OUI
+Jean Jaurès - Gare de Clamart,5,OUI
+Rochechouart - Martyrs,2,OUI
+Institut de France,17,OUI
+Place de la Nation - Taillebourg,5,OUI
+Victoria - Place du Chatelet,14,OUI
+Place de la République - Temple,14,OUI
+Grande Armée - Brunel,2,OUI
+Boulets - Voltaire,6,OUI
+Sebastopol - Rambuteau,20,OUI
+Jean Jaurès - Ouvrières Pivéreuses,3,OUI
+Madeleine Vionnet,18,OUI
+Ecole Militaire - Place Joffre,24,OUI
+Bleuets - Bordières,0,NON
+Montreuil - Voltaire,7,OUI
+Gare Saint-Lazare - Cour du Havre,34,OUI
+Fédération - Suffren,18,OUI
+Place Balard,28,OUI
+Mauroy - Cheminots,10,OUI
+Quai des Célestins - Henri IV,12,OUI
+Hoche - Tilsitt,4,OUI
+Saint-Antoine Sévigné,38,OUI
+Bourdonnais - Tour Eiffel,54,OUI
+Malesherbes - Place de la Madeleine,61,OUI
+Taitbout - Châteaudun,21,OUI
+Place Joffre - Frédéric le Play,26,OUI
+Quai de Béthune - Pont de la Tournelle,20,OUI
+Préfecture de Créteil,15,OUI
+Haut du Mont-Mesly,10,OUI
+Bineau - Louise Michel,5,OUI
+Créteil Pointe du Lac,0,NON
+Dugommier,20,OUI
+Place de la Gare,1,OUI
+Créteil Village,13,OUI
+Gare de Chaville Rive Gauche,2,OUI
+Place Charles Vallin,6,OUI
+Bobillot - Paulin Mery,1,OUI
+Place du Moulin de Javel,14,OUI
+Iles de Loisirs de Créteil,11,OUI
+Yves Farges - Route d'Enghien,21,OUI
+Wilson - Landy,11,OUI
+Louis Blanc - Aqueduc,8,OUI
+Borrégo - Gambetta,0,OUI
+Haxo - Surmelin,0,OUI
+Portugais - Kléber,2,OUI
+Bir Hakeim,27,OUI
+Danielle Casanova - Place Vendôme,24,OUI
+Gare de la Garenne-Colombes,21,OUI
+Mstislav Rostropovitch - Berthier,14,OUI
+Balzac - Champs Elysées,4,OUI
+Daumesnil - Picpus,7,OUI
+Proudhon - Président Wilson,11,OUI
+BNF - Bibliothèque Nationale de France,52,OUI
+Tremblay - Lac des Minimes,33,OUI
+Aristide Briand - Place de la Résistance,20,OUI
+Enfants du Paradis - Peupliers,9,OUI
+Caumartin - Provence,8,OUI
+Westermeyer - Paul Vaillant-Couturier,23,OUI
