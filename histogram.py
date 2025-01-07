@@ -1,11 +1,8 @@
 import pandas as pd
 import plotly.express as px
 
-# Exemple de données
-data = {
-    'station_name': ['Station 1', 'Station 2', 'Station 3', 'Station 4', 'Station 5'],
-    'bikes_available': [5, 15, 20, 10, 7],
-}
+# Récupération des données
+data = pd.read_csv('data/cleaned/cleaned_data_velib.csv', delimiter=',')
 
 # Charger les données dans un DataFrame
 df = pd.DataFrame(data)
@@ -13,10 +10,10 @@ df = pd.DataFrame(data)
 # Création de l'histogramme
 fig = px.histogram(
     df,
-    x="bikes_available",
+    x='Nombre total vélos disponibles',
     nbins=10,  # Nombre de classes dans l'histogramme
     title="Répartition des vélos disponibles",
-    labels={"bikes_available": "Nombre de vélos disponibles"},
+    labels={'Nombre total vélos disponibles': "Nombre de vélos disponibles"},
     template="plotly_white",
 )
 
