@@ -1,5 +1,6 @@
 from dash import Dash, dcc, html
 from src.components.histogram import create_histogram
+from src.components.pie import create_pie
 from src.utils.get_data import get_data
 from src.utils.clean_data import clean_data
 
@@ -14,6 +15,7 @@ get_data(data_url, output_data_file)
 clean_data(datato_clean, ourput_cleaned_data_file)
 
 fig = create_histogram()
+fig = create_pie()
 app = Dash(__name__)
 app.title = "Dashboard Vélib"
 app.layout = html.Div([
