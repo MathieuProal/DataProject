@@ -12,7 +12,7 @@ def create_histogram():
     fig = px.histogram(
         df,
         x='Nombre total vélos disponibles',
-        nbins=10,  # Nombre de classes dans l'histogramme
+        nbins=60,  # Nombre de classes dans l'histogramme
         title="Répartition des vélos disponibles",
         labels={'Nombre total vélos disponibles': "Nombre de vélos disponibles"},
         template="plotly_white",
