@@ -1,25 +1,33 @@
 import folium
-import geojson, geopandas, pandas
+from folium.plugins import MarkerCluster
+import pandas as pd
 
-def affichagePoint(coord1, coord2, texte, map) :
+# Fonction pour afficher les points
+def affichagePoint(coord1, coord2, texte, marker_cluster):
     point_coords = (float(coord1), float(coord2))
     folium.Marker(
         location=point_coords,
-        popup=texte, 
-        icon=folium.Icon(color='blue', icon='info-sign')
-    ).add_to(map)
-
+        popup=texte,
+        icon=folium.Icon(color='darkblue', icon='bicycle', prefix='fa'),  # Utilisation d'icônes modernes
+    ).add_to(marker_cluster)
 
 # Coordonnées de Paris
-coords = (48.8398094,2.5840685)
-map = folium.Map(location=coords, tiles='OpenStreetMap', zoom_start=10)
+coords = (48.8398094, 2.5840685)
 
-csvRead = pandas.read_csv('data/raw/data_velib.csv', delimiter=";")
+# Charger les données
+csvRead = pd.read_csv("data/raw/data_velib.csv", delimiter=";")
 
+# Créer une carte interactive
+map = folium.Map(location=coords, tiles="CartoDB positron", zoom_start=12)
+
+# Ajouter un cluster pour grouper les points proches
+marker_cluster = MarkerCluster().add_to(map)
+
+# Ajouter des points à la carte
 for index, ligne in csvRead.iterrows():
-    coord1, coord2 = ligne['Coordonnées géographiques'].split(',')
-    if (ligne['Station en fonctionnement']=="NON"):
-        affichagePoint(coord1, coord2, ligne['Nom station'], map)
+    coord1, coord2 = ligne["Coordonnées géographiques"].split(",")
+    if ligne["Station en fonctionnement"] == "OUI":
+        affichagePoint(coord1, coord2, ligne["Nom station"], marker_cluster)
 
-# marker cluster dans folium  
-map.save(outfile='map1.html')
+# Sauvegarder la carte dans un fichier HTML
+map.save(outfile="map1.html")

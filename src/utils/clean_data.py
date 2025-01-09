@@ -5,7 +5,7 @@ def clean_data(input_file, output_file):
     data = pd.read_csv(input_file, delimiter=";")
 
     # Récupère uniquement les données nécessaires
-    cleaned_data = data[['Nom station', 'Nombre total vélos disponibles', 'Station en fonctionnement']]
+    cleaned_data = data[['Nom station', 'Coordonnées géographiques',  'Nombre total vélos disponibles', 'Station en fonctionnement']]
 
     # Enregistre les données nettoyées dans un nouveau fichier
     cleaned_data.to_csv(output_file, index=False)
