@@ -5,7 +5,7 @@ def create_pie():
     # Récupération des données
     data = pd.read_csv('data/cleaned/cleaned_data_velib.csv', delimiter=',')
 
-    # Charger les données dans un DataFrame
+    # Mettre les données dans un DataFrame
     df = pd.DataFrame(data)
 
     # Création du camembert
@@ -14,10 +14,10 @@ def create_pie():
         values='Nombre total vélos disponibles',
         names='Station en fonctionnement',
         title="Répartition des vélos par statut des stations",
-        color='Station en fonctionnement',  # Ajout de couleurs selon les catégories
+        color='Station en fonctionnement',
         color_discrete_map={
-            "OUI": "#28a745",  # Vert pour les stations en fonctionnement
-            "NON": "#dc3545"   # Rouge pour les stations hors service
+            "OUI": "#28a745",
+            "NON": "#dc3545"
         },
         template="plotly_white",
     )
@@ -25,7 +25,7 @@ def create_pie():
     # Mise en valeur des sections avec une "explosion"
     fig.update_traces(
         pull=[0.1 if name == "NON" else 0 for name in df['Station en fonctionnement']],
-        textinfo="percent+label",  # Affiche pourcentage + label
+        textinfo="percent+label",
         textfont=dict(size=14, family="Arial", color="black"),
         marker=dict(line=dict(color="#ffffff", width=2)), 
     )

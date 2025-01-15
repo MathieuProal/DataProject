@@ -6,24 +6,24 @@ def create_histogram():
     # Récupération des données
     data = pd.read_csv('data/cleaned/cleaned_data_velib.csv', delimiter=',')
 
-    # Charger les données dans un DataFrame
+    # Mettre les données dans un DataFrame
     df = pd.DataFrame(data)
 
-    # Calcul de la moyenne des vélos disponibles
+    # Moyenne des vélos disponible
     mean_value = df['Nombre total vélos disponibles'].mean()
 
     # Création de l'histogramme
     fig = px.histogram(
         df,
         x='Nombre total vélos disponibles',
-        nbins=10,  # Nombre de classes dans l'histogramme
+        nbins=10,
         title="Répartition des vélos disponibles",
         labels={'Nombre total vélos disponibles': "Nombre de vélos disponibles"},
         template="plotly_white",
-        color_discrete_sequence=['#008080'],  # Couleur personnalisée
+        color_discrete_sequence=['#008080'],
     )
 
-    # Ajout d'une ligne de référence pour la moyenne
+    # Ajout d'une ligne pour la moyenne
     fig.add_vline(
         x=mean_value,
         line_dash="dash",
@@ -34,13 +34,13 @@ def create_histogram():
         annotation_font_color="red",
     )
 
-    # Mise en page améliorée
+    # Mise en page
     fig.update_layout(
         xaxis_title="Nombre de vélos disponibles",
         yaxis_title="Nombre de stations",
         title={
             "text": "Répartition des vélos disponibles",
-            "x": 0.5,  # Centrer le titre
+            "x": 0.5,
             "xanchor": "center",
             "font": {"size": 20, "family": "Arial", "color": "#1f77b4"},
         },
@@ -49,22 +49,8 @@ def create_histogram():
         paper_bgcolor="#ffffff",  # Fond de l'image
     )
 
-    # Ajout d'annotations supplémentaires (optionnel)
-   # fig.add_annotation(
-      #  x=mean_value,
-      #  y=max(fig.data[0].y) * 0.8,  # Position relative sur l'axe Y
-      #  text=f"Moyenne: {mean_value:.2f}",
-     #   showarrow=True,
-       # arrowhead=2,
-       # ax=-40,  # Décalage horizontal
-       # ay=-30,  # Décalage vertical
-      #  font=dict(size=12, color="red"),
-    #    arrowcolor="red",
-   # )
-
-    # Amélioration des ticks et des barres
     fig.update_xaxes(
-        tickangle=45,  # Inclinaison des étiquettes
+        tickangle=45,
         tickfont=dict(size=12, color="#333"),
         showgrid=True,
         gridcolor="#e9ecef",

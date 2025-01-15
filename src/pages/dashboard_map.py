@@ -1,9 +1,9 @@
 from dash import html
 import dash_bootstrap_components as dbc
+from src.components.map import create_map
 
-# Contenu de la page
-with open("map1.html", "r", encoding="utf-8") as f:
-    map_content = f.read()
+# Création de la carte
+map_html = create_map()
 
 layout = dbc.Container(
     [
@@ -11,7 +11,7 @@ layout = dbc.Container(
         html.Div(
             [
                 html.Iframe(
-                    srcDoc=map_content,
+                    srcDoc=map_html,
                     style={
                         "width": "100%",
                         "height": "500px",

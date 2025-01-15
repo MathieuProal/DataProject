@@ -1,10 +1,10 @@
 from dash import Dash, html, dcc
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
-import src.pages.map as map_page
-import src.pages.dashboard as dashboard_page
+import src.pages.dashboard_map as dashboard_map
+import src.pages.dashboard_histogram as dashboard_histogram
 
-# Créez l'application Dash
+# Création de l'application Dash
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP], suppress_callback_exceptions=True)
 app.title = "Dashboard Vélib"
 
@@ -34,9 +34,9 @@ app.layout = dbc.Container(
 )
 def display_page(pathname):
     if pathname == "/map":
-        return map_page.layout
+        return dashboard_map.layout
     else:
-        return dashboard_page.layout
+        return dashboard_histogram.layout
 
 if __name__ == "__main__":
     app.run_server(debug=True)

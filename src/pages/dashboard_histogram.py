@@ -3,7 +3,7 @@ import dash_bootstrap_components as dbc
 from src.components.histogram import create_histogram
 from src.components.pie import create_pie
 
-# Créez les graphiques
+# Création des graphiques
 histogram = create_histogram()
 pie = create_pie()
 
