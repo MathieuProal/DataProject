@@ -20,7 +20,7 @@ def create_histogram():
         title="Répartition des vélos disponibles",
         labels={'Nombre total vélos disponibles': "Nombre de vélos disponibles"},
         template="plotly_white",
-        color_discrete_sequence=['#1f77b4'],  # Couleur personnalisée
+        color_discrete_sequence=['#008080'],  # Couleur personnalisée
     )
 
     # Ajout d'une ligne de référence pour la moyenne

@@ -27,7 +27,7 @@ def create_pie():
         pull=[0.1 if name == "NON" else 0 for name in df['Station en fonctionnement']],
         textinfo="percent+label",  # Affiche pourcentage + label
         textfont=dict(size=14, family="Arial", color="black"),
-        marker=dict(line=dict(color="#ffffff", width=2)),  # Bordures blanches pour plus de contraste
+        marker=dict(line=dict(color="#ffffff", width=2)), 
     )
 
     # Mise en page
