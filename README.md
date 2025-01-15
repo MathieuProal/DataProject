@@ -27,8 +27,8 @@ Vous trouverez dans ce dossier :
 - Les fichiers permettant des récupérer et de nettoyer les données dans [utils](src/utils/)
 
 ### Ajouter une page ou un graphique
-Pour ajouter un élément dans une page, il faut créer le fichier contenant le composant dans le [dossier components](src\components), puis l'ajouter à la page que l'on souhaite grâce à l'import de la fonction créant cet élément, dans le fichier de page correspondant;
-Par exemple, pour ajouter un autre graphe à la première page, après avoir ajouté le fichier du composant à sa place, vous devez l'importer dans le fichier [dashboard_histogram](src\pages\dashboard_histogram.py) (capture 1), puis utiliser le composant dans la page (capture 2). Vous pouvez utiliser les mêmes paramètres de style, vous n'avez qu'à changer le nom du composant pour utiliser le vôtre.\
+Pour ajouter un élément dans une page, il faut créer le fichier contenant le composant dans le dossier [components](src\components), puis l'ajouter à la page que l'on souhaite, dans le fichier de la page en question./
+Par exemple, pour ajouter un autre graphe à la première page, après avoir ajouté le fichier du composant dans le dossier [components](src/components/), vous devez l'importer dans le fichier [dashboard_histogram](src\pages\dashboard_histogram.py) (voir photo 1), puis utiliser le composant dans la page (voir photo 2). Vous pouvez utiliser les mêmes paramètres de style, vous n'avez qu'à changer le nom du composant pour utiliser le vôtre.\
 ![Ajouter l'import](images/imports.PNG)\
 ![Ajouter le composant](images/utilisation.PNG)
 
