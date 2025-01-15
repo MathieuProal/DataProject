@@ -36,7 +36,7 @@ Par exemple, pour ajouter un autre graphe à la première page, après avoir ajo
 ## RAPPORT D'ANALYSE
 Grâce à ces données, on peut voir qu'il y a énormément de bornes de vélib à disposition des utilisatuers, et plus particulièrement dans la ville de Paris.\
 Une fois sortis de la capitale, celles-ci se font plus de plus en plus rares, et ne vont pas plus loin que la petite couronne, c'est à dire les villes les plus proches de Paris.\
-On peut en conclure que les services de vélib sont prévus pour une utilisation quasi-exclusive à Paris, probablement car placer des stations plus loin ne serait pas rentables pour l'entreprise.
+On peut en conclure que les services de vélib sont prévus pour une utilisation quasi-exclusive à Paris, probablement car placer des stations plus loin ne serait pas rentable pour l'entreprise.
 
 ## COPYRIGHT
 - Nous, sous signé Driss DRIYEJ et Mathieu PROAL, déclarons sur l'honneur que les lignes de code de ce projet ont été produites par nous-mêmes, à l'éxception de ces lignes ci-dessous :
