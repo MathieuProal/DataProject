@@ -1,1 +1,4 @@
-import dash_boostrap_components as dbc
+dash
+dash_boostrap_components
+folium
+pandas
