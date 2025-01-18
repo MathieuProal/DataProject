@@ -39,4 +39,5 @@ Une fois sortis de la capitale, celles-ci se font plus de plus en plus rares, et
 On peut en conclure que les services de vélib sont prévus pour une utilisation quasi-exclusive à Paris, probablement car placer des stations plus loin ne serait pas rentable pour l'entreprise.
 
 ## COPYRIGHT
-Nous, sous signé Driss DRIYEJ et Mathieu PROAL, déclarons sur l'honneur que les lignes de code de ce projet ont été produites par nous-mêmes
+Nous, sous signé Driss DRIYEJ et Mathieu PROAL, déclarons sur l'honneur que les lignes de code de ce projet ont été produites par nous-mêmes\
+NB : Dans les contributeurs, vous pourrez voir nos deux noms respectifs, ainsi que celui de Tom Feedyyy. Il s'agit d'un autre compte appartenant à Driss DRIYEJ, et non pas celui d'une autre personne qui serait intervenue sur ce projet.
