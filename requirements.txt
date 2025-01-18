@@ -2,3 +2,4 @@ dash
 dash_boostrap_components
 folium
 pandas
+plotly

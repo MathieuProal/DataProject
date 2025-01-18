@@ -13,13 +13,13 @@ def affichagePoint(coord1, coord2, texte, marker_cluster):
     ).add_to(marker_cluster)
 
 # Coordonnées de Paris
-coords = (48.8398094, 2.5840685)
+coords = (48.8498094, 2.3840685)
 
 # Charger les données
 csvRead = pd.read_csv('data/cleaned/cleaned_data_velib.csv', delimiter=",")
 
 # Créer une carte interactive
-map = folium.Map(location=coords, tiles="CartoDB positron", zoom_start=12)
+map = folium.Map(location=coords, tiles="CartoDB positron", zoom_start=11)
 
 # Ajouter un cluster pour grouper les points proches
 marker_cluster = MarkerCluster().add_to(map)
@@ -30,5 +30,5 @@ for index, ligne in csvRead.iterrows():
     if ligne["Station en fonctionnement"] == "OUI":
         affichagePoint(coord1, coord2, ligne["Nom station"], marker_cluster)
 
-# Sauvegarder la carte dans une variable HTML
+# Sauvegarder la carte dans un fichier HTML
 map.save(outfile='src\components\map.html')

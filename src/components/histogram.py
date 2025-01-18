@@ -17,7 +17,7 @@ def create_histogram():
         df,
         x='Nombre total vélos disponibles',
         nbins=10,
-        title="Répartition des vélos disponibles",
+        title="Répartition des stations selon le nombre de vélos disponibles",
         labels={'Nombre total vélos disponibles': "Nombre de vélos disponibles"},
         template="plotly_white",
         color_discrete_sequence=['#008080'],
@@ -39,7 +39,7 @@ def create_histogram():
         xaxis_title="Nombre de vélos disponibles",
         yaxis_title="Nombre de stations",
         title={
-            "text": "Répartition des vélos disponibles",
+            "text": "Répartition des stations selon le nombre de vélos disponibles",
             "x": 0.5,
             "xanchor": "center",
             "font": {"size": 20, "family": "Arial", "color": "#1f77b4"},
